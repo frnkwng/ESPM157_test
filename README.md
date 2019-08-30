@@ -4,3 +4,4 @@ Extra line
 add line
 Test 3
 15.3 Test
+15.6 test
